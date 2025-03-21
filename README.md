@@ -5,7 +5,7 @@ DecorArg es un ecommerce dedicado a la venta de productos de decoración para el
 
 ## Funcionalidades
 - *Ver listado de productos*: Se muestra una lista con todos los productos disponibles en el ecommerce.
-- *Filtrar por categoría: Los usuarios pueden filtrar los productos según categorías como **iluminación, **espejos, **cuadros, y **floreros*.
+- *Filtrar por categoría*: Los usuarios pueden filtrar los productos según categorías como *iluminación*, *espejos*, *cuadros*, y *floreros*.
 - *Ver producto individual*: Los usuarios pueden ver detalles de un producto específico.
 - *Agregar productos al carrito*: Los usuarios pueden añadir productos al carrito.
 - *Gestionar cantidades en el carrito*: Los usuarios pueden aumentar o disminuir la cantidad de un producto en el carrito.
