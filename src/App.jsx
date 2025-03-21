@@ -26,5 +26,3 @@ function App() {
 }
 
 export default App
-
-// puedo poner /: lo que sea, no tiene que llamarse id, quiere decir que todo lo que venga después de la / va a ser eso
